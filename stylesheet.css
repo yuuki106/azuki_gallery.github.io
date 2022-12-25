@@ -56,7 +56,7 @@ header{
 
 .gallery-wrapper{
     border-top: 20px solid black;
-    background-image: url(/img/back.jpeg);
+    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/back.jpeg?raw=true);
     background-size: contain;
 }
 
@@ -92,7 +92,7 @@ header{
     left: 130px;
 }
 .galleries{
-    background-image: url(/img/額縁.png);
+    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/%E9%A1%8D%E7%B8%81.png?raw=true);
     background-size: 70%;
     background-repeat:no-repeat;
     height: 570px;
@@ -158,7 +158,7 @@ header{
     left: 590px;
 }
 .galleries2{
-    background-image: url(/img/額縁.png);
+    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/%E9%A1%8D%E7%B8%81.png?raw=true);
     background-size: 70%;
     background-repeat:no-repeat;
     background-position: right 50px ;
