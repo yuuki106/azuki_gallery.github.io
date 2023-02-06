@@ -48,6 +48,13 @@
         width: 350px;
         height: 70px;
     }
+    
+    .phone-only2{
+        display: block;
+        font-size: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
 
     .galleries{
         background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/phone_ga_back.png?raw=true);
