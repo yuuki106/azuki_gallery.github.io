@@ -120,10 +120,9 @@ header{
 	transition:		all 0.2s ease;
 }
 .text p{
-    padding-top: 10px;
+    padding-top: 30px;
     font-size: 20px;
     font-family: "azuki_font";
-    padding-top: 20px;
 }
 .mask:hover{
     opacity:1;
