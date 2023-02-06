@@ -86,6 +86,9 @@ header{
     top:80px;
     left: 130px;
 }
+.phone-only2{
+    display: none;
+}
 .galleries{
     background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/%E9%A1%8D%E7%B8%81.png?raw=true);
     background-size: 70%;
@@ -101,7 +104,7 @@ header{
 }
 .text{
     font-size:		130%;
-	text-align: 		center;
+    text-align: 		center;
 	color:			#fff;
     font-family: "azuki_font";
 }
