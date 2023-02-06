@@ -70,6 +70,9 @@
         top:56px;
         left: 60px;
     }
+    .text p{
+        font-size: 12px;
+    }
     .gallery1 {
         top:90px;
         left: 48px;
