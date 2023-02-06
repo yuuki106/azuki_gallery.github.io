@@ -54,29 +54,44 @@ header{
 }
 
 .gallery-wrapper{
-    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/back.jpeg?raw=true);
+    background-image: url(/img/back.jpeg);
     background-size: contain;
     width: 1440px;
 }
 
 .gallery-title{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 30px;
+}
+.gallery-title img{
     position: relative;
 }
 .gallery-title p{
     font-size: 50px;
     position: absolute;
-    top: 70px;
+    top: 210px;
     left:500px;
     font-family:"azuki_font";
     font-weight: bold;
 }
-.gallery20221{
+
+.phone-only2{
+    display: none;
+}
+.galleries{
+    background-image: url(/img/額縁.png);
+    background-size: 70%;
+    background-repeat:no-repeat;
+    height: 570px;
     position: relative;
-    padding-top: 70px;
-    padding-left: 120px;
+}
+
+
+.gallery20221 img{
+    position: absolute;
+    top: 70px;
+    left:120px;
 }
 .gallery20221 p{
     position: absolute;
@@ -86,17 +101,6 @@ header{
     top:80px;
     left: 130px;
 }
-.phone-only2{
-    display: none;
-}
-.galleries{
-    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/%E9%A1%8D%E7%B8%81.png?raw=true);
-    background-size: 70%;
-    background-repeat:no-repeat;
-    height: 570px;
-    position: relative;
-    margin-top: 20px;
-}
 .gallery1{
     position: absolute;
     top: 160px;
@@ -104,7 +108,7 @@ header{
 }
 .text{
     font-size:		130%;
-    text-align: 		center;
+	text-align: 		center;
 	color:			#fff;
     font-family: "azuki_font";
 }
@@ -155,7 +159,7 @@ header{
     left: 585px;
 }
 .galleries2{
-    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/%E9%A1%8D%E7%B8%81.png?raw=true);
+    background-image: url(/img/額縁.png);
     background-size: 70%;
     background-repeat:no-repeat;
     background-position: right 50px ;
@@ -163,11 +167,8 @@ header{
     position: relative;
 
 }
-.galleries2{
-    position: relative;
-}
 .gallery20222 img{
-    position:absolute;
+    position: absolute;
     top: 110px;
     left: 550px;
 }
