@@ -1,0 +1,247 @@
+@media screen and (max-width:480px){
+
+
+    header{
+        width:100%;
+    }
+
+    .header-left img{
+        margin-left: 25px;
+    }
+
+    .header-left h3{
+        font-size: 20px;
+        border-bottom: 1px solid white;
+        padding-top: 25px;
+        padding-left: 0;
+        margin-left: 10px;
+    }
+
+    .phone-only{
+        display: block;
+        background-image: url(/img/ga_phone_back.jpg);
+        background-size: 100%;
+        width: 100%;
+        height:215px;
+    }
+
+    .gallery-wrapper{
+        width:100%;
+        background-size: cover;
+    }
+
+    .swich-wrapper {
+        display: none;
+    }
+
+    .gallery-title{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .gallery-title p{
+        top:28px;
+        left: 40px;
+        font-size: 35px;
+    }
+
+    .gallery-title img{
+        width: 350px;
+        height: 70px;
+    }
+
+    .galleries{
+        background-image: url(/img/phone_ga_back.png);
+        background-size: 100% 700px;
+        background-repeat: no-repeat;
+        height: 700px;
+        margin-top: 0;
+    }
+
+    .gallery20221{
+        padding-top: 48px;
+        padding-left: 45px;
+    }
+    .gallery20221 img{
+        width: 150px;
+        height: 35px;
+    }
+    .gallery20221 p{
+        font-size: 20px;
+        top:56px;
+        left: 60px;
+    }
+    .gallery1 {
+        top:90px;
+        left: 48px;
+    }
+    .gallery1 img{
+        width: 144px;
+        height: 192px;
+    }
+    .gallery2{
+        top:80px;
+        left: 198px;
+
+    }
+    .gallery2 img{
+        width: 153px;
+        height: 204px;
+    }
+
+    .gallary3{
+        top: 435px;
+        left: 200px;
+    }
+
+    .gallary3 img{
+        width: 145px;
+        height: 208px;
+    }
+
+    .gallary4{
+        top: 290px;
+        left: 43px;
+    }
+
+    .gallary4 img{
+        width: 126px;
+        height: 182px;
+    }
+
+    .gallary5{
+        top: 480px;
+        left: 40px;
+    }
+
+    .gallary5 img{
+        width: 149px;
+        height: 167px;
+
+    }
+
+    .gallary6 {
+        top: 295px;
+        left: 180px;
+    }
+    .gallary6 img{
+        width: 172px;
+        height: 125px;
+    }
+
+
+    .galleries2{
+        background-image: url(/img/phone_ga_back.png);
+        background-size: 100% 700px;
+        background-repeat: no-repeat;
+        height: 760px;
+
+    }
+
+    .gallery20222{
+        padding-top: 48px;
+        padding-left: 45px;
+    }
+
+    .gallery20222 img{
+        width: 150px;
+        height: 35px;
+        top: 100px;
+        left: 43px;
+    }
+
+    .gallery20222 p{
+        font-size: 20px;
+        top:108px;
+        left: 55px;
+    }
+
+    .gallery7{
+        top: 140px;
+        left: 42px;
+    }
+
+    .gallery7 img{
+        width: 166px;
+        height: 155px;
+    }
+    .gallery8{
+        top: 450px;
+        left:42px;
+    }
+    .gallery8 img{
+        width: 155px;
+        height: 111px;
+    }
+    .gallery9 {
+        top: 140px;
+        left: 213px;
+    }
+    .gallery9 img{
+        width: 139px;
+        height: 149px;
+    }
+    .gallery10{
+        top: 310px;
+        left: 100px;
+    }
+    .gallery10 img{
+        width: 182px;
+        height: 126px;
+    }
+    .gallery11{
+        top: 460px;
+        left: 204px;
+
+    }
+    .gallery11 img{
+        width: 149px;
+        height: 216px;
+    }
+    .gallery12{
+        top: 570px;
+        left: 40px;
+    }
+    .gallery12 img{
+        width: 158px;
+        height: 111px;
+    }
+
+
+    
+
+
+
+
+
+
+
+    .iphone-swich{
+        display: block;
+        width: 100%;
+        background-color: white;
+    }
+    .iphone-switchlist{
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 0;
+        border: 3px solid black;
+    }
+    
+    .iphone-switchlist li{
+        width: 33.33%;
+        height: 72px;
+        border: 1px solid black;
+        list-style: none;
+    }
+
+
+    footer{
+        width: 100%;
+    }
+
+
+
+
+
+
+}
