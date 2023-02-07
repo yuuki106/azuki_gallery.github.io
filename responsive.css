@@ -19,7 +19,7 @@
 
     .phone-only{
         display: block;
-        background-image: url(/img/ga_phone_back.jpg);
+        background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/ga_phone_back.jpg?raw=true);
         background-size: 100%;
         width: 100%;
         height:215px;
@@ -54,7 +54,7 @@
     }
 
     .galleries{
-        background-image: url(/img/phone_ga_back.png);
+        background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/phone_ga_back.png?raw=true);
         background-size: 100% 700px;
         background-repeat: no-repeat;
         height: 700px;
@@ -144,7 +144,7 @@
 
 
     .galleries2{
-        background-image: url(/img/phone_ga_back.png);
+        background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/phone_ga_back.png?raw=true);
         background-size: 100% 700px;
         background-repeat: no-repeat;
         height: 760px;
