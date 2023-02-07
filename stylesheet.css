@@ -54,7 +54,7 @@ header{
 }
 
 .gallery-wrapper{
-    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/back.jpeg?raw=true);
+    background-image: url(/img/back.jpeg);
     background-size: contain;
     width: 1440px;
 }
@@ -64,23 +64,23 @@ header{
     padding-top: 30px;
     padding-bottom: 30px;
 }
-.gallery-title img{
-    position: relative;
-}
 .gallery-title p{
     font-size: 50px;
-    position: absolute;
-    top: 210px;
-    left:500px;
     font-family:"azuki_font";
     font-weight: bold;
+    background-image: url(/img/title.png);
+    background-size: 100%;
+    width: 600px;
+    height: 90px;
+    padding-top: 20px;
+    margin: auto;
 }
 
 .phone-only2{
     display: none;
 }
 .galleries{
-    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/%E9%A1%8D%E7%B8%81.png?raw=true);
+    background-image: url(/img/額縁.png);
     background-size: 70%;
     background-repeat:no-repeat;
     height: 570px;
@@ -88,18 +88,18 @@ header{
 }
 
 
-.gallery20221 img{
-    position: absolute;
-    top: 70px;
-    left:120px;
-}
 .gallery20221 p{
-    position: absolute;
     font-family:"azuki_font";
     font-weight: bold;
-    font-size: 25px;
-    top:80px;
-    left: 130px;
+    font-size: 30px;
+    background-image: url(/img/paper.jpeg);
+    width: 220px;
+    height: 50px;
+    padding-top: 11px;
+    padding-left: 3px;
+    position:relative;
+    top: 80px;
+    left: 120px;
 }
 .gallery1{
     position: absolute;
@@ -110,11 +110,11 @@ header{
     font-size:		130%;
 	text-align: 		center;
 	color:			#fff;
-    font-family: "azuki_font";
+    font-family: "Corporate-Logo-Medium";
 }
 .mask{
     width:			100%;
-	height:			100%;
+	height:			98%;
 	position:		absolute;
 	top:			0;
 	left:			0;
@@ -124,7 +124,7 @@ header{
 	transition:		all 0.2s ease;
 }
 .text p{
-    padding-top: 30px;
+    padding-top: 20px;
     font-size: 20px;
     font-family: "azuki_font";
 }
@@ -159,7 +159,7 @@ header{
     left: 585px;
 }
 .galleries2{
-    background-image: url(https://github.com/yuuki106/azuki_gallery.github.io/blob/main/%E9%A1%8D%E7%B8%81.png?raw=true);
+    background-image: url(/img/額縁.png);
     background-size: 70%;
     background-repeat:no-repeat;
     background-position: right 50px ;
@@ -167,18 +167,20 @@ header{
     position: relative;
 
 }
-.gallery20222 img{
-    position: absolute;
-    top: 110px;
-    left: 550px;
-}
+
+
 .gallery20222 p{
-    position: absolute;
     font-family:"azuki_font";
     font-weight: bold;
-    font-size: 25px;
-    top:120px;
-    left: 570px;
+    font-size: 30px;
+    background-image: url(/img/paper.jpeg);
+    width: 220px;
+    height: 50px;
+    padding-top: 11px;
+    padding-left: 3px;
+    position:relative;
+    top: 103px;
+    left: 560px;
 }
 .gallery7{
     position: absolute;
